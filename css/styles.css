@@ -4,4 +4,6 @@ body {
 .head {
     display: flex;
     flex-direction: row;
+    height: 42px;
+    width: 1901px;
 }
